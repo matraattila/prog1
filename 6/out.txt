@@ -1,0 +1,6 @@
+kenyér 50%
+kolbász 25%
+paradicsom 50%
+tej 50%
+uborka 25%
+zsepi 50%
